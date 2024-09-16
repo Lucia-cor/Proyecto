@@ -1,0 +1,17 @@
+header {
+    background-color: rgb(204, 204, 177);
+    padding: 20px 0;
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 20px;
+    justify-content: center;
+}
+h1 {
+    color: rgb(84, 81, 81);
+    font-size: 45px;
+    font-weight: 300 bold;
+    font-style: italic;
+    display: inline-flex;
+    bottom: 20px;
+    margin-left: 15px;
+}

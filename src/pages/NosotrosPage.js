@@ -1,8 +1,9 @@
 import React from "react";
+import './../estilos/componentes/pages/NosotrosPage.css';
 
 const NosotrosPage = (props) => {
     return (
-        <main className="holder">
+        <main>
             <div className="imagen">
                 <img src="IMG/Home/Cabaña roja.jpg" alt="cabaña roja" />
             </div>

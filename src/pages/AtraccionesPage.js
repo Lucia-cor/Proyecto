@@ -1,4 +1,5 @@
 import React from "react";
+import './../estilos/componentes/pages/AtraccionesPage.css';
 
 const AtraccionesPage = (props) => {
     return (

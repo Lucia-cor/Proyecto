@@ -1,4 +1,5 @@
 import React from "react";
+import './../estilos/componentes/pages/GaleriaPage.css';
 
 const GaleriaPage = (props) => {
     return (

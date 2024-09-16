@@ -1,4 +1,5 @@
 import React from "react";
+import './../estilos/componentes/pages/ServiciosPage.css';
 
 const ServiciosPage = (props) => {
     return (
@@ -10,7 +11,7 @@ const ServiciosPage = (props) => {
                     provident ad!</p>
             </div>
             <div className="servicios">
-                <div class="servicio">
+                <div className="servicio">
                     <img src="IMG/Servicios/Desayuno.jpg" alt="Desayuno" />
                     <div className="info">
                         <h4>DESAYUNO</h4>
